@@ -1,14 +1,10 @@
 public class Pet {
 
-
     private final String name;
 
     private boolean clean;
 
-
-    //nessa idle se vc apertar fn+ insert vc abre um construtor pra vc
-
-    public Pet(String name) {
+    public Pet(final String name){
         this.name = name;
         this.clean = false;
     }
