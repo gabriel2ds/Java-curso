@@ -1,2 +1,2 @@
 # Java-curso
-# Java-curso modified
+Aqui haverá projetos e anotações dos meus aprendizados
